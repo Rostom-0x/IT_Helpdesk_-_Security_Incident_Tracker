@@ -218,3 +218,35 @@
 [2026-06-03 05:40:46,632] INFO - User login: dev@company.com
 [2026-06-03 05:40:46,632] INFO - Security Alert: Secure login detected for account dev@company.com
 [2026-06-03 05:50:56,365] INFO - Profile updated for dev@company.com: Profile updated: Full name changed from 'Charlie Brown1' to 'Charlie Brown123'
+[2026-06-03 07:16:12,787] INFO - User logout: dev@company.com
+[2026-06-03 07:17:08,501] INFO - User login: dev@company.com
+[2026-06-03 07:17:08,501] INFO - Security Alert: Secure login detected for account dev@company.com
+[2026-06-03 09:24:27,462] INFO - User logout: admin@company.com
+[2026-06-03 09:24:33,674] INFO - User login: dev@company.com
+[2026-06-03 09:24:33,674] INFO - Security Alert: Secure login detected for account dev@company.com
+[2026-06-03 12:53:43,768] INFO - User login: user1@company.com
+[2026-06-03 12:53:43,768] INFO - Security Alert: Secure login detected for account user1@company.com
+[2026-06-03 12:55:22,298] INFO - User login: user1@company.com
+[2026-06-03 12:55:22,298] INFO - Security Alert: Secure login detected for account user1@company.com
+[2026-06-03 12:55:36,936] INFO - User login: user2@company.com
+[2026-06-03 12:55:36,937] INFO - Security Alert: Secure login detected for account user2@company.com
+[2026-06-03 12:56:48,315] INFO - User logout: dev@company.com
+[2026-06-03 12:56:52,704] INFO - User login: dev@company.com
+[2026-06-03 12:56:52,708] INFO - Security Alert: Secure login detected for account dev@company.com
+[2026-06-03 12:56:57,293] INFO - User logout: dev@company.com
+[2026-06-03 12:57:03,385] INFO - User login: manager@company.com
+[2026-06-03 12:57:03,394] INFO - Security Alert: Secure login detected for account manager@company.com
+[2026-06-03 13:29:24,789] INFO - User registered: persistence@company.com
+[2026-06-03 13:29:26,877] INFO - User login: persistence@company.com
+[2026-06-03 13:29:26,877] INFO - Security Alert: Secure login detected for account persistence@company.com
+[2026-06-03 13:29:26,907] INFO - User logout: persistence@company.com
+[2026-06-03 13:29:28,570] INFO - User login: persistence@company.com
+[2026-06-03 13:29:28,571] INFO - Security Alert: Secure login detected for account persistence@company.com
+[2026-06-03 19:00:55,216] INFO - User logout: admin@company.com
+[2026-06-03 19:03:36,683] INFO - User registered: rostom@gmail.com
+[2026-06-03 19:11:58,114] INFO - User login: rostom@gmail.com
+[2026-06-03 19:11:58,116] INFO - Security Alert: Secure login detected for account rostom@gmail.com
+[2026-06-03 19:13:35,348] INFO - User logout: rostom@gmail.com
+[2026-06-03 19:20:56,776] INFO - User logout: admin@company.com
+[2026-06-03 19:22:00,546] INFO - User login: rostom@gmail.com
+[2026-06-03 19:22:00,546] INFO - Security Alert: Secure login detected for account rostom@gmail.com
